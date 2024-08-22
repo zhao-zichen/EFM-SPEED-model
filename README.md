@@ -1,4 +1,4 @@
-# dynamic-modelling-of-intrinsic-self-healing-polymers-using-deep-learning
+# dynamic-modeling-of-intrinsic-self-healing-polymers-using-deep-learning
 This repository contains the codes and models to predict the temporal evolution of cut image and toughness value via the self-healing process.
 
 1) The Energy Functional Minimization (EFM) model is designed to generate a long sequence of predicted cut images based on the initial cut image. 
